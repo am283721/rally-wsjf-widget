@@ -1,5 +1,5 @@
 {
-  "name": "custom-app",
+  "name": "rally-wsjf-widget",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -12,12 +12,12 @@
     "@sveltejs/vite-plugin-svelte": "^6.2.0",
     "prettier": "^3.6.2",
     "prettier-plugin-svelte": "^3.4.0",
-    "rally-modern-sdk": "^1.0.2",
+    "rally-modern-sdk": "^1.0.4",
     "svelte": "^5.38.10",
     "tslib": "^2.8.1",
     "typescript": "^5.9.2",
     "vite": "^7.1.5",
     "vite-plugin-singlefile": "^2.3.0"
   },
-  "repository": ""
+  "repository": "https://github.com/am283721/rally-wsjf-widget"
 }
